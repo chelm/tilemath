@@ -1,7 +1,7 @@
 Tilemath 
 ----------
 
-Math for map tiles, taken from (http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection/)[http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection/]
+Math for map tiles, taken from http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection/
 
 ## Install 
 
