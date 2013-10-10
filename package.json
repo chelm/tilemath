@@ -1,0 +1,22 @@
+{
+  "name": "tilemath",
+  "version": "0.0.1",
+  "description": "Math for map tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maps",
+    "tiles",
+    "geo"
+  ],
+  "devDependencies": {
+    "vows": ">=0.7.0",
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.3.x",
+    "grunt-vows": "0.4.x"
+  },
+  "author": "Chris Helm",
+  "license": "BSD-2-Clause"
+}
