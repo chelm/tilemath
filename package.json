@@ -1,6 +1,6 @@
 {
   "name": "tilemath",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Math for map tiles",
   "main": "index.js",
   "scripts": {

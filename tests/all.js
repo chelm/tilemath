@@ -11,7 +11,7 @@ vows.describe('Tile Bounds from Z, X, Y').addBatch({
     },
     'It should return the bounds': function ( err, b ) {
       assert.equal(b.length, 4);
-      assert.equal(JSON.stringify(b), '[40.979898069620155,123.75,31.952162238024975,112.5]');
+      assert.equal(JSON.stringify(b), '[40.979898069620155,-123.75,31.952162238024975,-112.5]');
     }
   }
 

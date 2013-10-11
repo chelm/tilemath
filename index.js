@@ -22,7 +22,7 @@ TileMath.prototype.MetersToLatLon = function( mx, my ){
 
 TileMath.prototype.PixelsToMeters = function( x, y, zoom ){
   var res = this.Resolution( zoom ),
-    mx = (x * res - this.shift ) * -1,
+    mx = (x * res - this.shift ),
     my = (y * res - this.shift) * -1;
   return [ mx, my ];
 };
